@@ -183,5 +183,4 @@ Começar um segundo ciclo do CRISP para analisar o problema sob o ponto de vista
 
 # 11. Contato
 
-Este projeto foi inteiramente desenvolvido por mim com base nos conceitos ensinados em treinamento. Fique a vontade para entrar em contato comigo através do meu LinkedIN.
-Conecte-se comigo no meu [Linkedin](https://www.linkedin.com/in/k%C3%A9dimo-alc%C3%A2ntara-4371ab234/).
+Este projeto foi inteiramente desenvolvido por mim com base nos conceitos ensinados em treinamento. Fique a vontade para entrar em contato comigo e conectar-se através do meu [Linkedin](https://www.linkedin.com/in/k%C3%A9dimo-alc%C3%A2ntara-4371ab234/).
